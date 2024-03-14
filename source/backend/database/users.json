@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "643ac8570a05bda13dd73b1d"
+  },
+  "username": "nam",
+  "email": "nam@example.com",
+  "password": "$2b$10$QTRkHZTKQs65kMRFtqdl8.yVIpYAOxWWncdypPlqqJ79Hdt2w1q7S",
+  "picture": "http://res.cloudinary.com/dptwdkr13/image/upload/v1681573974/gxzynoshifufcn6hntmh.jpg",
+  "status": "offline",
+  "newMessages": {},
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643bd55a1650a5a2fa7ce720"
+  },
+  "username": "nam",
+  "email": "aaa@example.com",
+  "password": "$2b$10$f02IXtW1F2VFcacIkLfQBO1LnT6XmPGLRU3BfWdKLlJKkzgpMkzoS",
+  "picture": "http://res.cloudinary.com/dptwdkr13/image/upload/v1681642843/nb45hydtfjlhujptdstw.jpg",
+  "status": "offline",
+  "newMessages": {},
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cb57db3822e3326bdb519"
+  },
+  "username": "Đoàn Phương Nam",
+  "email": "doanphuongnam@example.com",
+  "password": "$2b$10$DeKwlEmsO0ACsxq27dcleOqF7BVDaYMrXOcy8Mx7xJ9AfS/gUHg42",
+  "picture": "http://res.cloudinary.com/dptwdkr13/image/upload/v1681700221/eggxbuam75asvtdd2ejd.jpg",
+  "status": "offline",
+  "newMessages": {
+    "tech": 1
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643ec4754b8c0c8cdbcbb2f4"
+  },
+  "username": "Quang Din",
+  "email": "quangdin@example.com",
+  "password": "$2b$10$kQJCUDkcr2UVv9XMh5Z1TO4xhDFbOGaaMBbrssnEtEY3cQQ5k0HSu",
+  "picture": "http://res.cloudinary.com/dptwdkr13/image/upload/v1681835126/qopt5rgfp2lembf62zpd.jpg",
+  "status": "offline",
+  "newMessages": {},
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6440147f59d3aae40d324467"
+  },
+  "username": "Admin",
+  "email": "admin@example.com",
+  "password": "$2b$10$jldNkUpSWCOyGyBj8er.rOPu5sq8Dm8JM7vVsWr5Fi0aP/q5IjzEK",
+  "picture": "http://res.cloudinary.com/dptwdkr13/image/upload/v1681921151/f71qytkrugwpflihxdxn.jpg",
+  "status": "offline",
+  "newMessages": {},
+  "__v": 0
+}]
